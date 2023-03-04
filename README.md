@@ -4,8 +4,10 @@
 <br>
 In this project, you will implement 3 web pages with Bootstrap. You will use all HTML/CSS/Accessibility/Responsive design/Bootstrap knowledges that you learned previously.  
 You won’t have a lot of instruction, you are free to implement it the way that you want - the objective is simple: Have fully functional web pages that look the same as the designer file.  
+<br>
 Here the final result:  
-These webpages were designed by Nicolas Philippot, UI/UX designer.  
+These webpages were designed by Nicolas Philippot, UI/UX designer.
+<br>
 [Homepage](https://www.figma.com/file/0ZQNVjB0TPUAFozGAQudzO/Homepage-(Copy)?t=Ia7adrpE2cO3OVtX-1)
  --- 
 [Pricing](https://www.figma.com/file/ummP8Hwe99sNatFqPuvtbR/Pricing-(Copy)?t=Ia7adrpE2cO3OVtX-1)
