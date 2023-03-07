@@ -1,0 +1,73 @@
+
+/* nav */
+.navbar {
+    font-weight: bold;
+    font-size: 12px;
+    max-width: 85vw;
+}
+.hero-background-img {
+    position: absolute;
+    width: 100vw;
+    top: 0;
+    left: 0;
+
+    z-index: -1;
+}
+.logo-smile {
+    max-width: 37px;
+}
+.logo-text {
+    max-width: 114px;
+    margin-left: 1rem;
+}
+
+/* Hero Section */
+.get-schooled {
+    font-family: 'Source Sans Pro';
+    font-size: 120px;
+    font-weight: bold;
+}
+.hero-word {
+    font-family: 'Source Sans Pro';
+
+    font-size: 16px;
+    font-weight: bold;
+}
+.hero-btn {
+    font-family: 'Source Sans Pro';
+
+    font-size: 14px;
+    background-color: #C271FF;
+}
+.learn, .from-the-pros {
+    font-family: 'Source Sans Pro';
+
+    font-size: 32px;
+}
+.learn {
+    color: #C271FF;
+    font-weight: bold;
+}
+.from-the-pros {
+    font-weight: 200;
+}
+
+/* cards */
+.card {
+    font-family: 'Source Sans Pro';
+    width: 150px;
+    background-color: transparent;
+}
+.card-img-top {
+    border-radius: 50%;
+}
+.card-title {
+    font-family: 'Source Sans Pro';
+    font-size: 18px;
+    font-weight: 900;
+}
+.card-text {
+    font-family: 'Source Sans Pro';
+    font-size: 16px;
+    font-style: italic;
+}
