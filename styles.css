@@ -5,14 +5,12 @@
     font-size: 12px;
     max-width: 85vw;
 }
-.hero-background-img {
-    position: absolute;
-    width: 100vw;
-    top: 0;
-    left: 0;
-
-    z-index: -1;
-}
+.hero-img {
+    background-image: url('images/pic_1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+  }
 .logo-smile {
     max-width: 37px;
 }
@@ -52,6 +50,33 @@
     font-weight: 200;
 }
 
+.hero-cards {
+    max-width: 1009px;
+    margin: auto;
+}
+
+@media (max-width: 768px) {
+    .get-schooled {
+        font-size: 90px;
+    }
+    .hero-cards {
+        background-color: #071629;
+    }
+    .from-the-pros {
+        background-color: #071629;
+    }
+    .hero-img {
+        background-position: center;
+
+    }
+}
+
+@media (max-width: 576px) {
+    .get-schooled {
+        font-size: 61px;
+    }
+
+}
 /* cards */
 .card {
     font-family: 'Source Sans Pro';
@@ -70,4 +95,31 @@
     font-family: 'Source Sans Pro';
     font-size: 16px;
     font-style: italic;
+}
+/* Carousel section */
+.avatar {
+    width: 160px;
+    border-radius: 50%;
+    position: relative;
+    display: block;
+    left: 180px;
+}
+.carousel-caption {
+    left: 340px;
+}
+.carousel-control {
+    max-width: 30px;
+}
+.carousel-card {
+    margin: 20px 30px;
+}
+.testimonials-section {
+    background-color: #C271FF;
+    width: 100%;
+    height: 392px;
+}
+@media (max-width: 576px) {
+    .testimonials-section {
+        height: 571px;
+    }
 }
